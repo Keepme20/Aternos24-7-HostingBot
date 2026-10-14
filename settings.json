@@ -1,4 +1,4 @@
-{
+i{
   "name": "AFK Bot",
   "bot-account": {
     "username": "imgonnacream",
@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": Rookiesmp.aternos.me
-    "port": 44019,
+    "port": 31897
     "version": "",
     "try-creative": false
   },
